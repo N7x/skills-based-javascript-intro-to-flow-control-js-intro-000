@@ -32,6 +32,6 @@ function switchAge(age) {
       default:
         return "You are not a teenager"
     }
-   
+
     console.log("teenager")
 }
